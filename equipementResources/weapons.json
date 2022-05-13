@@ -1,0 +1,1856 @@
+{
+  "Dagger": {
+    "name": "Dagger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dagger_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Parrying Dagger": {
+    "name": "Parrying Dagger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/parrying_dagger_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Misericorde": {
+    "name": "Misericorde",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/misericorde_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Great Knife": {
+    "name": "Great Knife",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_knife_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Bloodstained Dagger": {
+    "name": "Bloodstained Dagger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodstained_dagger_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Erdsteel Dagger": {
+    "name": "Erdsteel Dagger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdsteel_dagger_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Wakizashi": {
+    "name": "Wakizashi",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/wakizashi_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Celebrant's Sickle": {
+    "name": "Celebrant's Sickle",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/celebrants-sickle_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": true
+  },
+  "Ivory Sickle": {
+    "name": "Ivory Sickle",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ivory_sickle_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Crystal Knife": {
+    "name": "Crystal Knife",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_knife_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Scorpion's Stinger": {
+    "name": "Scorpion's Stinger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scorpions_stinger_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Cinquedea": {
+    "name": "Cinquedea",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cinquedea_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Glintstone Kris": {
+    "name": "Glintstone Kris",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_kris_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Reduvia": {
+    "name": "Reduvia",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/reduvia_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Blade of Calling": {
+    "name": "Blade of Calling",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blade_of_calling_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Black Knife": {
+    "name": "Black Knife",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_dagger_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "700",
+    "AOW": false
+  },
+  "Short Sword": {
+    "name": "Short Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/short_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Longsword": {
+    "name": "Longsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/longsword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Broadsword": {
+    "name": "Broadsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/broadsword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Weathered Straight Sword": {
+    "name": "Weathered Straight Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/weathered_straight_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Lordsworn's Straight Sword": {
+    "name": "Lordsworn's Straight Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lordsworns_straight_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Noble's Slender Sword": {
+    "name": "Noble's Slender Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nobles_slender_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Cane Sword": {
+    "name": "Cane Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cane_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Warhawk's Talon": {
+    "name": "Warhawk's Talon",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/warhawks_talon_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": true
+  },
+  "Lazuli Glintstone Sword": {
+    "name": "Lazuli Glintstone Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lazuli_glintstone_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Carian Knight's Sword": {
+    "name": "Carian Knight's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knights_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Crystal Sword": {
+    "name": "Crystal Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Rotten Crystal Sword": {
+    "name": "Rotten Crystal Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_crystal_sword_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Miquellan Knight's Sword": {
+    "name": "Miquellan Knight's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/miquellan_knights_sword_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Ornamental Straight Sword": {
+    "name": "Ornamental Straight Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ornamental_straight_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Golden Epitaph": {
+    "name": "Golden Epitaph",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_epitaph_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Sword of St Trina": {
+    "name": "Sword of St Trina",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sword_of_st_trina_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Regalia of Eochaid": {
+    "name": "Regalia of Eochaid",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/regalia_of_eochaid_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Coded Sword": {
+    "name": "Coded Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/coded_sword_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Sword of Night and Flame": {
+    "name": "Sword of Night and Flame",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sword_of_night_and_flame_straight_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "701",
+    "AOW": false
+  },
+  "Bastard Sword": {
+    "name": "Bastard Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bastard_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Claymore": {
+    "name": "Claymore",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/claymore_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Iron Greatsword": {
+    "name": "Iron Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_greatsword_greatswords_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Lordsworn's Greatsword": {
+    "name": "Lordsworn's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lordsworns_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Knight's Greatsword": {
+    "name": "Knight's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/knights_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Banished Knight's Greatsword": {
+    "name": "Banished Knight's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knights_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Forked Greatsword": {
+    "name": "Forked Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/forked_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Flamberge": {
+    "name": "Flamberge",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/flamberge_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Gargoyle's Greatsword": {
+    "name": "Gargoyle's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": true
+  },
+  "Gargoyle's Blackblade": {
+    "name": "Gargoyle's Blackblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_blackblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Inseparable Sword": {
+    "name": "Inseparable Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/inseparable_sword_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Sword of Milos": {
+    "name": "Sword of Milos",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sword_of_milos_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Marais Executioner's Sword": {
+    "name": "Marais Executioner's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marais_executioners_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Ordovis's Greatsword": {
+    "name": "Ordovis's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ordoviss_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Alabaster Lord's Sword": {
+    "name": "Alabaster Lord's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alabaster_lords_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Death's Poker": {
+    "name": "Death's Poker",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/deaths_poker_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Helphen's Steeple": {
+    "name": "Helphen's Steeple",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/helphens_steeple.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Blasphemous Blade": {
+    "name": "Blasphemous Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blasphemous_blade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Golden Order Greatsword": {
+    "name": "Golden Order Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_order_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Dark Moon Greatsword": {
+    "name": "Dark Moon Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dark_moon_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Sacred Relic Sword": {
+    "name": "Sacred Relic Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sacred_relic_sword.png",
+    "type": "702",
+    "AOW": false
+  },
+  "Zweihander": {
+    "name": "Zweihander",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/zweihander_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": true
+  },
+  "Greatsword": {
+    "name": "Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": true
+  },
+  "Watchdog's Greatsword": {
+    "name": "Watchdog's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/watchdogs_greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": true
+  },
+  "Troll's Golden Sword": {
+    "name": "Troll's Golden Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/trolls_golden_sword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": true
+  },
+  "Troll Knight's Sword": {
+    "name": "Troll Knight's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/troll_knights_sword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Royal Greatsword": {
+    "name": "Royal Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_greatsword__colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Grafted Blade Greatsword": {
+    "name": "Grafted Blade Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/grafted_blade_greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Ruins Greatsword": {
+    "name": "Ruins Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ruins_greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Starscourge Greatsword": {
+    "name": "Starscourge Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/starscourge_greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Godslayer's Greatsword": {
+    "name": "Godslayer's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godslayers_greatsword_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Maliketh's Black Blade": {
+    "name": "Maliketh's Black Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+    "type": "703",
+    "AOW": false
+  },
+  "Rapier": {
+    "name": "Rapier",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rapier_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Estoc": {
+    "name": "Estoc",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/estoc_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Noble's Estoc": {
+    "name": "Noble's Estoc",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nobles_estoc_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Cleanrot Knight's Sword": {
+    "name": "Cleanrot Knight's Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_knights_sword_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Rogier's Rapier": {
+    "name": "Rogier's Rapier",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rogiers_rapier_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Antspur Rapier": {
+    "name": "Antspur Rapier",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/antspur_rapier_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": true
+  },
+  "Frozen Needle": {
+    "name": "Frozen Needle",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/frozen_needle_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "704",
+    "AOW": false
+  },
+  "Great Epee": {
+    "name": "Great Epee",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_epee_heavy_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "705",
+    "AOW": true
+  },
+  "Godskin Stitcher": {
+    "name": "Godskin Stitcher",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_stitcher_heavy_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "705",
+    "AOW": true
+  },
+  "Bloody Helice": {
+    "name": "Bloody Helice",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloody_helice_heavy_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "705",
+    "AOW": false
+  },
+  "Dragon King's Cragblade": {
+    "name": "Dragon King's Cragblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_kings_cragblade_heavy_thrusting_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "705",
+    "AOW": false
+  },
+  "Scimitar": {
+    "name": "Scimitar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scimitar_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Falchion": {
+    "name": "Falchion",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/falchion_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Shamshir": {
+    "name": "Shamshir",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shamshir_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Grossmesser": {
+    "name": "Grossmesser",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/grossmesser_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Bandit's Curved Sword": {
+    "name": "Bandit's Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bandits_curved_sword_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Shotel": {
+    "name": "Shotel",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shotel_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Scavenger's Curved Sword": {
+    "name": "Scavenger's Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scavengers_curved_sword_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Mantis Blade": {
+    "name": "Mantis Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mantis_blade_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Beastman's Curved Sword": {
+    "name": "Beastman's Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beastmans_curved_sword_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Flowing Curved Sword": {
+    "name": "Flowing Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/flowing_curved_sword_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Serpent-God's Curved Sword": {
+    "name": "Serpent-God's Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/serpent-gods_curved_sword_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": true
+  },
+  "Magma Blade": {
+    "name": "Magma Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/magma_blade_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": false
+  },
+  "Nox Flowing Sword": {
+    "name": "Nox Flowing Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_flowing_sword_curved_sword_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": false
+  },
+  "Wing of Astel": {
+    "name": "Wing of Astel",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/wing_of_astel_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": false
+  },
+  "Eclipse Shotel": {
+    "name": "Eclipse Shotel",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eclipse_shotel_curved_sword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "706",
+    "AOW": false
+  },
+  "Dismounter": {
+    "name": "Dismounter",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dismounter_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": true
+  },
+  "Omen Cleaver": {
+    "name": "Omen Cleaver",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omen_cleaver_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": true
+  },
+  "Monk's Flameblade": {
+    "name": "Monk's Flameblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/monks_flameblade_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": true
+  },
+  "Beastman's Cleaver": {
+    "name": "Beastman's Cleaver",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beastmans_cleaver_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": true
+  },
+  "Bloodhound's Fang": {
+    "name": "Bloodhound's Fang",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhounds_fang_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": false
+  },
+  "Onyx Lord's Greatsword": {
+    "name": "Onyx Lord's Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/onyx_lords_greatsword_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": false
+  },
+  "Zamor Curved Sword": {
+    "name": "Zamor Curved Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/zamor_curved_sword_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": false
+  },
+  "Magma Wyrm's Scalesword": {
+    "name": "Magma Wyrm's Scalesword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/magma_wyrms_scalesword_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": false
+  },
+  "Morgott's Cursed Sword": {
+    "name": "Morgott's Cursed Sword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/morgotts_cursed_sword_curved_greatsword_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "707",
+    "AOW": false
+  },
+  "Uchigatana": {
+    "name": "Uchigatana",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/uchigatana_katana_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": true
+  },
+  "Nagakiba": {
+    "name": "Nagakiba",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nagakiba_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": true
+  },
+  "Serpentbone Blade": {
+    "name": "Serpentbone Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/serpentbone_blade_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Meteoric Ore Blade": {
+    "name": "Meteoric Ore Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/meteoric_ore_blade_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Moonveil": {
+    "name": "Moonveil",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/moonveil_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Rivers of Blood": {
+    "name": "Rivers of Blood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rivers_of_blood_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Dragonscale Blade": {
+    "name": "Dragonscale Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonscale_blade_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Hand of Malenia": {
+    "name": "Hand of Malenia",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hand_of_malenia_katana_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "708",
+    "AOW": false
+  },
+  "Twinblade": {
+    "name": "Twinblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinblade_twinblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": true
+  },
+  "Twinned Knight Swords": {
+    "name": "Twinned Knight Swords",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned_knight_swords_twinblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": true
+  },
+  "Godskin Peeler": {
+    "name": "Godskin Peeler",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_peeler_twinblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": true
+  },
+  "Gargoyle's Twinblade": {
+    "name": "Gargoyle's Twinblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyle's_twinblade_weapons_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": true
+  },
+  "Gargoyle's Black Blades": {
+    "name": "Gargoyle's Black Blades",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_black_blades_twinblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": false
+  },
+  "Eleonora's Poleblade": {
+    "name": "Eleonora's Poleblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eleonoras_poleblade_twinblade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "709",
+    "AOW": false
+  },
+  "Hand Axe": {
+    "name": "Hand Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hand_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Forked Hatchet": {
+    "name": "Forked Hatchet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/forked_hatchet_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Battle Axe": {
+    "name": "Battle Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/battle_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Warped Axe": {
+    "name": "Warped Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/warped_axe_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Jawbone Axe": {
+    "name": "Jawbone Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jawbone_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Iron Cleaver": {
+    "name": "Iron Cleaver",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_cleaver_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Highland Axe": {
+    "name": "Highland Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/highland_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Celebrant's Cleaver": {
+    "name": "Celebrant's Cleaver",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/celebrants-cleaver_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Sacrificial Axe": {
+    "name": "Sacrificial Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sacrificial_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": true
+  },
+  "Icerind Hatchet": {
+    "name": "Icerind Hatchet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/icerind_hatchet_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": false
+  },
+  "Ripple Blade": {
+    "name": "Ripple Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ripple_blade_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": false
+  },
+  "Stormhawk Axe": {
+    "name": "Stormhawk Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/stormhawk_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": false
+  },
+  "Rosus' Axe": {
+    "name": "Rosus' Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rosus_axe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "710",
+    "AOW": false
+  },
+  "Greataxe": {
+    "name": "Greataxe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greataxe_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Crescent Moon Axe": {
+    "name": "Crescent Moon Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crescent_moon_axe_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Longhaft Axe": {
+    "name": "Longhaft Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/longhaft_axe_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Executioner's Greataxe": {
+    "name": "Executioner's Greataxe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/executioners_greataxe_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Great Omenkiller Cleaver": {
+    "name": "Great Omenkiller Cleaver",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_omenkiller_cleaver_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Rusted Anchor": {
+    "name": "Rusted Anchor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rusted_anchor_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Butchering Knife": {
+    "name": "Butchering Knife",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/butchering_knife_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Gargoyle's Great Axe": {
+    "name": "Gargoyle's Great Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_great_axe_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": true
+  },
+  "Gargoyle's Black Axe": {
+    "name": "Gargoyle's Black Axe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_black_axe_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": false
+  },
+  "Winged Greathorn": {
+    "name": "Winged Greathorn",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/winged_greathorn_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": false
+  },
+  "Axe of Godrick": {
+    "name": "Axe of Godrick",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/axe_of_godrick_greataxe_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "711",
+    "AOW": false
+  },
+  "Club": {
+    "name": "Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/club_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Curved Club": {
+    "name": "Curved Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/curved_club_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Spiked Club": {
+    "name": "Spiked Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spiked_club_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Stone Club": {
+    "name": "Stone Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/stone_club_clubs_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Mace": {
+    "name": "Mace",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mace_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Morning Star": {
+    "name": "Morning Star",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/morning_star_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Warpick": {
+    "name": "Warpick",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/warpick_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Hammer": {
+    "name": "Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hammer_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Monk's Flamemace": {
+    "name": "Monk's Flamemace",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/monks_flamemace_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": true
+  },
+  "Varre's Bouquet": {
+    "name": "Varre's Bouquet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/varres_bouquet_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Envoy's Horn": {
+    "name": "Envoy's Horn",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/envoys_horn_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Nox Flowing Hammer": {
+    "name": "Nox Flowing Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_flowing_hammer_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Ringed Finger": {
+    "name": "Ringed Finger",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ringed_finger_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Scepter of the All-Knowing": {
+    "name": "Scepter of the All-Knowing",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scepter_of_the_all-knowing_hammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Marika's Hammer": {
+    "name": "Marika's Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marikas_hammer_elden_ring_wiki_guide_200px.png",
+    "type": "712",
+    "AOW": false
+  },
+  "Flail": {
+    "name": "Flail",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/flail_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "713",
+    "AOW": true
+  },
+  "Nightrider Flail": {
+    "name": "Nightrider Flail",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nightrider_flail_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "713",
+    "AOW": true
+  },
+  "Chainlink Flail": {
+    "name": "Chainlink Flail",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/chainlink_flail_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "713",
+    "AOW": true
+  },
+  "Family Heads": {
+    "name": "Family Heads",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/family_heads_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "713",
+    "AOW": false
+  },
+  "Bastard's Stars": {
+    "name": "Bastard's Stars",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bastards_stars_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "713",
+    "AOW": false
+  },
+  "Large Club": {
+    "name": "Large Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/large_club_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Curved Great Club": {
+    "name": "Curved Great Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/curved_great_club_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Great Mace": {
+    "name": "Great Mace",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_mace_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Pickaxe": {
+    "name": "Pickaxe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pickaxe_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Brick Hammer": {
+    "name": "Brick Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/brick_hammer_warhammer_weapon_elden_ring_wiki_guide_200px.png\" alt=\"brick hammer warhammer weapon elden ring wiki guide 200px\" width=\"75\" height=\"75\">",
+    "type": "714",
+    "AOW": true
+  },
+  "Battle Hammer": {
+    "name": "Battle Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/battle_hammer_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Rotten Battle Hammer": {
+    "name": "Rotten Battle Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_battle_hammer_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Celebrant's Skull": {
+    "name": "Celebrant's Skull",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/celebrants_skull_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Great Stars": {
+    "name": "Great Stars",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_stars_warhammer_weapon_elden_ring_wiki_guide_200px.png\" alt=\"great stars warhammer weapon elden ring wiki guide 200px\" width=\"75\" height=\"75\">",
+    "type": "714",
+    "AOW": true
+  },
+  "Greathorn Hammer": {
+    "name": "Greathorn Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greathorn_hammer_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": true
+  },
+  "Envoy's Long Horn": {
+    "name": "Envoy's Long Horn",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/envoys_long_horn_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": false
+  },
+  "Cranial Vessel Candlestand": {
+    "name": "Cranial Vessel Candlestand",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cranial_vessel_candlestand_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": false
+  },
+  "Beastclaw Greathammer": {
+    "name": "Beastclaw Greathammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beastclaw_greathammer_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": false
+  },
+  "Devourer's Scepter": {
+    "name": "Devourer's Scepter",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/devourers_scepter_warhammer_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "714",
+    "AOW": false
+  },
+  "Duelist Greataxe": {
+    "name": "Duelist Greataxe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/duelist_greataxe_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": true
+  },
+  "Rotten Greataxe": {
+    "name": "Rotten Greataxe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_greataxe_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": true
+  },
+  "Golem's Halberd": {
+    "name": "Golem's Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golems_halberd_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": true
+  },
+  "Giant-Crusher": {
+    "name": "Giant-Crusher",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/giant-crusher_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": true
+  },
+  "Prelate's Inferno Crozier": {
+    "name": "Prelate's Inferno Crozier",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prelates_inferno_crozier_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": true
+  },
+  "Great Club": {
+    "name": "Great Club",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_club_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Troll's Hammer": {
+    "name": "Troll's Hammer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/trolls_hammer_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Dragon Greatclaw": {
+    "name": "Dragon Greatclaw",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_greatclaw_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Watchdog's Staff": {
+    "name": "Watchdog's Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/watchdog_staff_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Staff of the Avatar": {
+    "name": "Staff of the Avatar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/staff_of_the_avatar_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Rotten Staff": {
+    "name": "Rotten Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_staff_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Envoy's Greathorn": {
+    "name": "Envoy's Greathorn",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/envoys_greathorn_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Ghiza's Wheel": {
+    "name": "Ghiza's Wheel",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ghiza's_wheel_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Fallingstar Beast Jaw": {
+    "name": "Fallingstar Beast Jaw",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fallingstar_beast_jaw_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Axe of Godfrey": {
+    "name": "Axe of Godfrey",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/axe_of_godfrey_colossal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "715",
+    "AOW": false
+  },
+  "Short Spear": {
+    "name": "Short Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/short_spear_spear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Iron Spear": {
+    "name": "Iron Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_spear_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Spear": {
+    "name": "Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spear_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Partisan": {
+    "name": "Partisan",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/partisan_spear-elden-ring-wiki-guide-200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Pike": {
+    "name": "Pike",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pike_spear-elden-ring-wiki-guide-200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Spiked Spear": {
+    "name": "Spiked Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spiked_spear_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Cross-Naginata": {
+    "name": "Cross-Naginata",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cross-naginata_elden_ring_wiki_guide_75px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Clayman's Harpoon": {
+    "name": "Clayman's Harpoon",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/claymans_harpoon-elden-ring-wiki-guide.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Celebrant's Rib-Rake": {
+    "name": "Celebrant's Rib-Rake",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/celebrants_rib-rake_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": true
+  },
+  "Torchpole": {
+    "name": "Torchpole",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/torchpole_elden_ring_wiki_guide_75px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Inquisitor's Girandole": {
+    "name": "Inquisitor's Girandole",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/inquisitor's_girandole_weapons_elden_ring_wiki_guide_75px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Crystal Spear": {
+    "name": "Crystal Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_spear_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Rotten Crystal Spear": {
+    "name": "Rotten Crystal Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_crystal_spear_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Cleanrot Spear": {
+    "name": "Cleanrot Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_spear-elden-ring-wiki-guide.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Death Ritual Spear": {
+    "name": "Death Ritual Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/death_ritual_spear_weapons_elden_ring_wiki_guide_75px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Bolt of Gransax": {
+    "name": "Bolt of Gransax",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bolt_of_gransax-elden-ring-wiki-guide.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Winged Spear": {
+    "name": "Winged Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/winged_spear_spear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "716",
+    "AOW": false
+  },
+  "Lance": {
+    "name": "Lance",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lance_greatspear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": true
+  },
+  "Treespear": {
+    "name": "Treespear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/treespear_greatspear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": false
+  },
+  "Serpent-Hunter": {
+    "name": "Serpent-Hunter",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/serpent-hunter_greatspear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": false
+  },
+  "Siluria's Tree": {
+    "name": "Siluria's Tree",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/silurias_tree_greatspear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": false
+  },
+  "Vyke's War Spear": {
+    "name": "Vyke's War Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vykes_war_spear_greatspear_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": false
+  },
+  "Mohgwyn's Sacred Spear": {
+    "name": "Mohgwyn's Sacred Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mohgwyns_sacred_spear_great_spears_elden_ring_wiki_guide_200px.png",
+    "type": "717",
+    "AOW": false
+  },
+  "Halberd": {
+    "name": "Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Banished Knight's Halberd": {
+    "name": "Banished Knight's Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knights_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Lucerne": {
+    "name": "Lucerne",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lucerne_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Glaive": {
+    "name": "Glaive",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glaive_halberds_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Vulgar Militia Shotel": {
+    "name": "Vulgar Militia Shotel",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_shotel_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Vulgar Militia Saw": {
+    "name": "Vulgar Militia Saw",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_saw_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Guardian's Swordspear": {
+    "name": "Guardian's Swordspear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guardians_swordspear_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Gargoyle's Halberd": {
+    "name": "Gargoyle's Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Gargoyle's Black Halberd": {
+    "name": "Gargoyle's Black Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gargoyles_black_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Nightrider Glaive": {
+    "name": "Nightrider Glaive",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nightrider_glaive_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Pest's Glaive": {
+    "name": "Pest's Glaive",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pests_glaive_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": true
+  },
+  "Ripple Crescent Halberd": {
+    "name": "Ripple Crescent Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ripple_crescent_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Golden Halberd": {
+    "name": "Golden Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Dragon Halberd": {
+    "name": "Dragon Halberd",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_halberd_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Loretta's War Sickle": {
+    "name": "Loretta's War Sickle",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lorettas_war_sickle_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Commander's Standard": {
+    "name": "Commander's Standard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commanders_standard_halberd_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "718",
+    "AOW": false
+  },
+  "Scythe": {
+    "name": "Scythe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scythe_reaper_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "719",
+    "AOW": true
+  },
+  "Grave Scythe": {
+    "name": "Grave Scythe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/grave_scythe_reaper_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "719",
+    "AOW": true
+  },
+  "Halo Scythe": {
+    "name": "Halo Scythe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/halo_scythe_reaper_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "719",
+    "AOW": false
+  },
+  "Winged Scythe": {
+    "name": "Winged Scythe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/winged_scythe_reaper_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "719",
+    "AOW": false
+  },
+  "Whip": {
+    "name": "Whip",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/whip_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": true
+  },
+  "Thorned Whip": {
+    "name": "Thorned Whip",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/thorned_whip_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": true
+  },
+  "Urumi": {
+    "name": "Urumi",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/urumi_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": true
+  },
+  "Hoslow's Petal Whip": {
+    "name": "Hoslow's Petal Whip",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_petal_whip_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": true
+  },
+  "Magma Whip Candlestick": {
+    "name": "Magma Whip Candlestick",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/magma_whip_candlestick_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": false
+  },
+  "Giant's Red Braid": {
+    "name": "Giant's Red Braid",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/giant's_red_braid_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "720",
+    "AOW": false
+  },
+  "Caestus": {
+    "name": "Caestus",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/caestus_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": true
+  },
+  "Spiked Caestus": {
+    "name": "Spiked Caestus",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spiked_caestus_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": true
+  },
+  "Katar": {
+    "name": "Katar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/katar_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": true
+  },
+  "Iron Ball": {
+    "name": "Iron Ball",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_ball_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": true
+  },
+  "Star Fist": {
+    "name": "Star Fist",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/star_fist_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": true
+  },
+  "Clinging Bone": {
+    "name": "Clinging Bone",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/clinging_bone_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": false
+  },
+  "Veteran's Prosthesis": {
+    "name": "Veteran's Prosthesis",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_prosthesis_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": false
+  },
+  "Cipher Pata": {
+    "name": "Cipher Pata",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cipher_pata_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": false
+  },
+  "Grafted Dragon": {
+    "name": "Grafted Dragon",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/grafted_dragon_fist_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "721",
+    "AOW": false
+  },
+  "Hookclaws": {
+    "name": "Hookclaws",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hookclaws_claw_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "722",
+    "AOW": true
+  },
+  "Bloodhound Claws": {
+    "name": "Bloodhound Claws",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound_claws_claw_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "722",
+    "AOW": true
+  },
+  "Venomous Fang": {
+    "name": "Venomous Fang",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/venomous_fang_claw_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "722",
+    "AOW": true
+  },
+  "Raptor Talons": {
+    "name": "Raptor Talons",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raptor_talons_claw_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "722",
+    "AOW": true
+  },
+  "Shortbow": {
+    "name": "Shortbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shortbow_lightbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "723",
+    "AOW": false
+  },
+  "Composite Bow": {
+    "name": "Composite Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/composite_bow_light_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "723",
+    "AOW": false
+  },
+  "Red Branch Shortbow": {
+    "name": "Red Branch Shortbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/red_branch_shortbow_elden_ring_wiki_guide_200px.png",
+    "type": "723",
+    "AOW": false
+  },
+  "Misbegotten Shortbow": {
+    "name": "Misbegotten Shortbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/misbegotten_shortbow_light_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "723",
+    "AOW": false
+  },
+  "Harp Bow": {
+    "name": "Harp Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/harp_bow_light_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "723",
+    "AOW": false
+  },
+  "Longbow": {
+    "name": "Longbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/longbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Albinauric Bow": {
+    "name": "Albinauric Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/albinauric_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Black Bow": {
+    "name": "Black Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Pulley Bow": {
+    "name": "Pulley Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pulley_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Horn Bow": {
+    "name": "Horn Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/horn_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Serpent Bow": {
+    "name": "Serpent Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/serpent_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Erdtree Bow": {
+    "name": "Erdtree Bow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree_bow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "724",
+    "AOW": false
+  },
+  "Greatbow": {
+    "name": "Greatbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greatbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "725",
+    "AOW": false
+  },
+  "Golem Greatbow": {
+    "name": "Golem Greatbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golem_greatbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "725",
+    "AOW": false
+  },
+  "Erdtree Greatbow": {
+    "name": "Erdtree Greatbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree_greatbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "725",
+    "AOW": false
+  },
+  "Lion Greatbow": {
+    "name": "Lion Greatbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lion_greatbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "725",
+    "AOW": false
+  },
+  "Soldier's Crossbow": {
+    "name": "Soldier's Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/soldiers_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Light Crossbow": {
+    "name": "Light Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/light_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Heavy Crossbow": {
+    "name": "Heavy Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/heavy_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Arbalest": {
+    "name": "Arbalest",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/arbalest_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Crepus's Black-Key Crossbow": {
+    "name": "Crepus's Black-Key Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crepuss_black-key_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Pulley Crossbow": {
+    "name": "Pulley Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pulley_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Full Moon Crossbow": {
+    "name": "Full Moon Crossbow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/full_moon_crossbow_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "726",
+    "AOW": false
+  },
+  "Hand Ballista": {
+    "name": "Hand Ballista",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hand_ballista_ballista_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "727",
+    "AOW": false
+  },
+  "Jar Cannon": {
+    "name": "Jar Cannon",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jar_cannon_ballista_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "727",
+    "AOW": false
+  },
+  "Astrologer's Staff": {
+    "name": "Astrologer's Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/astrologers_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Glintstone Staff": {
+    "name": "Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Academy Glintstone Staff": {
+    "name": "Academy Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/academy_glintstone_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Digger's Staff": {
+    "name": "Digger's Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/diggers_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Demi-Human Queen's Staff": {
+    "name": "Demi-Human Queen's Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/demi-human_queens_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Azur's Glintstone Staff": {
+    "name": "Azur's Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/azurs_glintstone_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Lusat's Glintstone Staff": {
+    "name": "Lusat's Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lusats_glintstone_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Carian Glintstone Staff": {
+    "name": "Carian Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_glintstone_staff_glintstone_staffs-elden-ring-wiki-guide-200.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Carian Glintblade Staff": {
+    "name": "Carian Glintblade Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_glintblade_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Carian Regal Scepter": {
+    "name": "Carian Regal Scepter",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_regal_scepter_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Albinauric Staff": {
+    "name": "Albinauric Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/albinauric_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Staff of Loss": {
+    "name": "Staff of Loss",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/staff_of_loss_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Gelmir Glintstone Staff": {
+    "name": "Gelmir Glintstone Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_glintstone_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Crystal Staff": {
+    "name": "Crystal Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Rotten Crystal Staff": {
+    "name": "Rotten Crystal Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_crystal_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Meteorite Staff": {
+    "name": "Meteorite Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/meteorite_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Staff of the Guilty": {
+    "name": "Staff of the Guilty",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/staff_of_the_guilty_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Prince of Death's Staff": {
+    "name": "Prince of Death's Staff",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prince_of_deaths_staff_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "728",
+    "AOW": false
+  },
+  "Finger Seal": {
+    "name": "Finger Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/finger-seal_armament-elden-ring-wiki-guide-200.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Erdtree Seal": {
+    "name": "Erdtree Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Golden Order Seal": {
+    "name": "Golden Order Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_order_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Gravel Stone Seal": {
+    "name": "Gravel Stone Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravel_stone_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Giant's Seal": {
+    "name": "Giant's Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/giants_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Godslayer's Seal": {
+    "name": "Godslayer's Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godslayers_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Clawmark Seal": {
+    "name": "Clawmark Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/clawmark_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Frenzied Flame Seal": {
+    "name": "Frenzied Flame Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzied_flame_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Dragon Communion Seal": {
+    "name": "Dragon Communion Seal",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_communion_seal_sacred_seal_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "729",
+    "AOW": false
+  },
+  "Torch": {
+    "name": "Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  },
+  "Beast-Repellent Torch": {
+    "name": "Beast-Repellent Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast-repellent_torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  },
+  "Steel-Wire Torch": {
+    "name": "Steel-Wire Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/steel-wire_torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  },
+  "Sentry's Torch": {
+    "name": "Sentry's Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sentrys_torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  },
+  "Ghostflame Torch": {
+    "name": "Ghostflame Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ghostflame_torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  },
+  "St Trina's Torch": {
+    "name": "St Trina's Torch",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/st_trinas_torch_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "730",
+    "AOW": false
+  }
+}

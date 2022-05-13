@@ -1,0 +1,842 @@
+{
+  "Alberich's Pointed Hat": {
+    "name": "Alberich's Pointed Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alberichs_pointed_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Albinauric Mask": {
+    "name": "Albinauric Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/albinauric_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "All-Knowing Helm": {
+    "name": "All-Knowing Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/all-knowing_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Aristocrat Hat": {
+    "name": "Aristocrat Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aristocrat_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Aristocrat Headband": {
+    "name": "Aristocrat Headband",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aristocrat_headband_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Astrologer Hood": {
+    "name": "Astrologer Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/astrologer_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Ash-of-War Scarab": {
+    "name": "Ash-of-War Scarab",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash-of-war_scarab_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Azur's Glintstone Crown": {
+    "name": "Azur's Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/azurs_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Bandit Mask": {
+    "name": "Bandit Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bandit_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Banished Knight Helm": {
+    "name": "Banished Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Beast Champion Helm": {
+    "name": "Beast Champion Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast_champion_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Black Knife Hood": {
+    "name": "Black Knife Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Blackflame Monk Hood": {
+    "name": "Blackflame Monk Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blackflame_monk_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Bloodhound Knight Helm": {
+    "name": "Bloodhound Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Bloodsoaked Mask": {
+    "name": "Bloodsoaked Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodsoaked_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Blue Cloth Cowl": {
+    "name": "Blue Cloth Cowl",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_cloth_cowl_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Briar Helm": {
+    "name": "Briar Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/briar_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Bull-Goat Helm": {
+    "name": "Bull-Goat Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bull-goat_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Carian Knight Helm": {
+    "name": "Carian Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Chain Coif": {
+    "name": "Chain Coif",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/chain_coif.png",
+    "type": "100"
+  },
+  "Cleanrot Helm": {
+    "name": "Cleanrot Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Champion Headband": {
+    "name": "Champion Headband",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/champion_headband_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Commoner's Headband": {
+    "name": "Commoner's Headband",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_headband_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Confessor Hood": {
+    "name": "Confessor Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/confessor_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Crimson Hood": {
+    "name": "Crimson Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Crucible Axe Helm": {
+    "name": "Crucible Axe Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_axe_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Crucible Tree Helm": {
+    "name": "Crucible Tree Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible-tree-helm-head-armor-elden-ring-wiki-guide.png",
+    "type": "100"
+  },
+  "Eccentric's Hood": {
+    "name": "Eccentric's Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eccentrics_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Elden Lord Crown": {
+    "name": "Elden Lord Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_lord_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Exile Hood": {
+    "name": "Exile Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/exile_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Fia's Hood": {
+    "name": "Fia's Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fias_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Fingerprint Helm": {
+    "name": "Fingerprint Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_helm.png",
+    "type": "100"
+  },
+  "Finger Maiden Fillet": {
+    "name": "Finger Maiden Fillet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/finger_maiden_fillet_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Fire Monk Hood": {
+    "name": "Fire Monk Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_monk_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Foot Soldier Cap": {
+    "name": "Foot Soldier Cap",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/foot_soldier_cap_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Foot Soldier Helmet": {
+    "name": "Foot Soldier Helmet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/foot_soldier_helmet_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Gelmir Knight Helm": {
+    "name": "Gelmir Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Godrick Knight Helm": {
+    "name": "Godrick Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Godrick Soldier Helm": {
+    "name": "Godrick Soldier Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_soldier_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Godskin Apostle Hood": {
+    "name": "Godskin Apostle Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_apostle_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Greathelm": {
+    "name": "Greathelm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greathelm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Great Horned Headband": {
+    "name": "Great Horned Headband",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_horned_headband_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Guilty Hood": {
+    "name": "Guilty Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guilty_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Haligtree Helm": {
+    "name": "Haligtree Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Hierodas Glintstone Crown": {
+    "name": "Hierodas Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hierodas_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Highwayman Hood": {
+    "name": "Highwayman Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/highwayman_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Hoslow's Helm": {
+    "name": "Hoslow's Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Cat)": {
+    "name": "Imp Head (Cat)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(cat)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Corpse)": {
+    "name": "Imp Head (Corpse)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(corpse)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Elder)": {
+    "name": "Imp Head (Elder)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(elder)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Fanged)": {
+    "name": "Imp Head (Fanged)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(fanged)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Long-Tongued)": {
+    "name": "Imp Head (Long-Tongued)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(long-tongued)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Imp Head (Wolf)": {
+    "name": "Imp Head (Wolf)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/imp_head_(wolf)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Iron Helmet": {
+    "name": "Iron Helmet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_helmet_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Incantation Scarab": {
+    "name": "Incantation Scarab",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/incantation_scarab_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Juvenile Scholar Cap": {
+    "name": "Juvenile Scholar Cap",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/juvenile_scholar_cap_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Kaiden Helm": {
+    "name": "Kaiden Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Karolos Glintstone Crown": {
+    "name": "Karolos Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/karolos_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Knight Helm": {
+    "name": "Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Land of Reeds Helm": {
+    "name": "Land of Reeds Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/land_of_reeds_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Leyndell Knight Helm": {
+    "name": "Leyndell Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Lionel's Helm": {
+    "name": "Lionel's Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lionels_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Malformed Dragon Helm": {
+    "name": "Malformed Dragon Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malformed_dragon_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Maliketh's Helm": {
+    "name": "Maliketh's Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malikeths_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Marais Mask": {
+    "name": "Marais Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marais_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Marionette Soldier Helm": {
+    "name": "Marionette Soldier Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marionette_soldier_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Marionette Soldier Birdhelm": {
+    "name": "Marionette Soldier Birdhelm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marionette_soldier_birdhelm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Mask of Confidence": {
+    "name": "Mask of Confidence",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mask_of_confidence_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Mushroom Crown": {
+    "name": "Mushroom Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mushroom_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Mushroom Head": {
+    "name": "Mushroom Head",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mushroom_head_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Navy Hood": {
+    "name": "Navy Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/navy_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Night Maiden Twin Crown": {
+    "name": "Night Maiden Twin Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/night_maiden_twin_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nox Mirrorhelm": {
+    "name": "Nox Mirrorhelm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_mirrorhelm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Octopus Head": {
+    "name": "Octopus Head",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/octopus_head_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Olivinus Glintstone Crown": {
+    "name": "Olivinus Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/olivinus_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Omensmirk Mask": {
+    "name": "Omensmirk Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omensmirk_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Page Hood": {
+    "name": "Page Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/page_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Perfumer Hood": {
+    "name": "Perfumer Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumer_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Preceptor's Big Hat": {
+    "name": "Preceptor's Big Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/preceptors_big_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Prisoner Iron Mask": {
+    "name": "Prisoner Iron Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prisoner_iron_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Prophet Blindfold": {
+    "name": "Prophet Blindfold",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prophet_blindfold_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Pumpkin Helm": {
+    "name": "Pumpkin Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pumpkin_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Radahn's Redmane Helm": {
+    "name": "Radahn's Redmane Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahns_redmane_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Raging Wolf Helm": {
+    "name": "Raging Wolf Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raging_wolf_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Queen's Crescent Crown": {
+    "name": "Queen's Crescent Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/queens_crescent_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Radiant Gold Mask": {
+    "name": "Radiant Gold Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radiant_gold_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Rotten Duelist Helm": {
+    "name": "Rotten Duelist Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_duelist_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Ruler's Mask": {
+    "name": "Ruler's Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rulers_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Sage Hood": {
+    "name": "Sage Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sage_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Silver Tear Mask": {
+    "name": "Silver Tear Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/silver_tear_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Scaled Helm": {
+    "name": "Scaled Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scaled_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Shining Horned Headband": {
+    "name": "Shining Horned Headband",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shining_horned_headband_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Snow Witch Hat": {
+    "name": "Snow Witch Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/snow_witch_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Traveler's Hat": {
+    "name": "Traveler's Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/travelers_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Traveling Maiden Hood": {
+    "name": "Traveling Maiden Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/traveling_maiden_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Twinned Helm": {
+    "name": "Twinned Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Twinsage Glintstone Crown": {
+    "name": "Twinsage Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinsage_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Vagabond Knight Helm": {
+    "name": "Vagabond Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vagabond_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Veteran's Helm": {
+    "name": "Veteran's Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Vulgar Militia Helm": {
+    "name": "Vulgar Militia Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Zamor Mask": {
+    "name": "Zamor Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/zamor_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Glintstone Scarab": {
+    "name": "Glintstone Scarab",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_scarab_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Cerulean Tear Scarab": {
+    "name": "Cerulean Tear Scarab",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean_tear_scarab_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Okina Mask": {
+    "name": "Okina Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/okina_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Witch's Glintstone Crown": {
+    "name": "Witch's Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/witchs_glintstone_crown_helmet_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Alberich's Pointed Hat (Altered)": {
+    "name": "Alberich's Pointed Hat (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alberichs_pointed_hat_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Banished Knight Helm (Altered)": {
+    "name": "Banished Knight Helm (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knight_helm_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Black Dumpling": {
+    "name": "Black Dumpling",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_dumpling_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Black Hood": {
+    "name": "Black Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Black Wolf Mask": {
+    "name": "Black Wolf Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_wolf_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Blackguard's Iron Mask": {
+    "name": "Blackguard's Iron Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blackguards_iron_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Blue Festive Hood": {
+    "name": "Blue Festive Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_festive_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Blue Silver Mail Hood": {
+    "name": "Blue Silver Mail Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_silver_mail_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Brave's Cord Circlet": {
+    "name": "Brave's Cord Circlet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/braves_cord_circlet_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Brave's Leather Helm": {
+    "name": "Brave's Leather Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/braves_leather_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Cleanrot Helm (Altered)": {
+    "name": "Cleanrot Helm (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_helm_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Commoner's Headband (Altered)": {
+    "name": "Commoner's Headband (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_headband_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Confessor Hood (Altered)": {
+    "name": "Confessor Hood (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/confessor_hood_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Consort's Mask": {
+    "name": "Consort's Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/consorts_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Crimson Tear Scarab": {
+    "name": "Crimson Tear Scarab",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_tear_scarab_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Cuckoo Knight Helm": {
+    "name": "Cuckoo Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Depraved Perfumer Headscarf": {
+    "name": "Depraved Perfumer Headscarf",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/depraved_perfumer_headscarf_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Diallos's Mask": {
+    "name": "Diallos's Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dialloss_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Drake Knight Helm": {
+    "name": "Drake Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/drake_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Drake Knight Helm (Altered)": {
+    "name": "Drake Knight Helm (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/drake_knight_helm_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Duelist Helm": {
+    "name": "Duelist Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/duelist_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Eccentric's Hood (Altered)": {
+    "name": "Eccentric's Hood (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eccentrics_hood_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Envoy Crown": {
+    "name": "Envoy Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/envoy_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Festive Hood": {
+    "name": "Festive Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Festive Hood (Altered)": {
+    "name": "Festive Hood (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_hood_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Fire Prelate Helm": {
+    "name": "Fire Prelate Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_prelate_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Foot Soldier Helm": {
+    "name": "Foot Soldier Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/foot_soldier_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Gilded Foot Soldier Cap": {
+    "name": "Gilded Foot Soldier Cap",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gilded_foot_soldier_cap_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Godskin Noble Hood": {
+    "name": "Godskin Noble Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_noble_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Greathood": {
+    "name": "Greathood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/greathood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Guardian Mask": {
+    "name": "Guardian Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guardian_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Haima Glintstone Crown": {
+    "name": "Haima Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haima_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Haligtree Knight Helm": {
+    "name": "Haligtree Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "High Page Hood": {
+    "name": "High Page Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/high_page_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Iji's Mirrorhelm": {
+    "name": "Iji's Mirrorhelm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ijis_mirrorhelm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Iron Kasa": {
+    "name": "Iron Kasa",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_kasa_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Jar": {
+    "name": "Jar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jar_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Lazuli Glintstone Crown": {
+    "name": "Lazuli Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lazuli_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Leyndell Soldier Helm": {
+    "name": "Leyndell Soldier Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_soldier_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Lusat's Glintstone Crown": {
+    "name": "Lusat's Glintstone Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lusats_glintstone_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Malenia's Winged Helm": {
+    "name": "Malenia's Winged Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malenias_winged_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Night's Cavalry Helm": {
+    "name": "Night's Cavalry Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Night's Cavalry Helm (Altered)": {
+    "name": "Night's Cavalry Helm (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_helm_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nomadic Merchant's Chapeau": {
+    "name": "Nomadic Merchant's Chapeau",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nomadic_merchants_chapeau_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nox Monk Hood": {
+    "name": "Nox Monk Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_monk_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nox Monk Hood (Altered)": {
+    "name": "Nox Monk Hood (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_monk_hood_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nox Swordstress Crown": {
+    "name": "Nox Swordstress Crown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_swordstress_crown_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Nox Swordstress Crown (Altered)": {
+    "name": "Nox Swordstress Crown (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_swordstress_crown_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Old Aristocrat Cowl": {
+    "name": "Old Aristocrat Cowl",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/old_aristocrat_cowl_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Omen Helm": {
+    "name": "Omen Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omen_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Radahn Soldier Helm": {
+    "name": "Radahn Soldier Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahn_soldier_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Ragged Hat": {
+    "name": "Ragged Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ragged_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Ragged Hat (Altered)": {
+    "name": "Ragged Hat (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ragged_hat_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Raya Lucarian Helm": {
+    "name": "Raya Lucarian Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucarian_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Redmane Knight Helm": {
+    "name": "Redmane Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Royal Knight Helm": {
+    "name": "Royal Knight Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_knight_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Royal Remains Helm": {
+    "name": "Royal Remains Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_remains_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Sacred Crown Helm": {
+    "name": "Sacred Crown Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sacred_crown_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Sanguine Noble Hood": {
+    "name": "Sanguine Noble Hood",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sanguine_noble_hood_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Skeletal Mask": {
+    "name": "Skeletal Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/skeletal_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Spellblade's Pointed Hat": {
+    "name": "Spellblade's Pointed Hat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spellblades_pointed_hat_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "Tree Sentinel Helm": {
+    "name": "Tree Sentinel Helm",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree_sentinel_helm_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  },
+  "White Mask": {
+    "name": "White Mask",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/white_mask_elden_ring_wiki_guide_200px.png",
+    "type": "100"
+  }
+}

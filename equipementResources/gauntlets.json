@@ -1,0 +1,472 @@
+{
+  "All-Knowing Gauntlets": {
+    "name": "All-Knowing Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/all-knowing_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Alberich's Bracers": {
+    "name": "Alberich's Bracers",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alberichs_bracers_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Astrologer Gloves": {
+    "name": "Astrologer Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/astrologer_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Azur's Manchettes": {
+    "name": "Azur's Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/azurs_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Bandit Manchettes": {
+    "name": "Bandit Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bandit_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Beast Champion Gauntlets": {
+    "name": "Beast Champion Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast_champion_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Black Knife Gauntlets": {
+    "name": "Black Knife Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Blackflame Monk Gauntlets": {
+    "name": "Blackflame Monk Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blackflame_monk_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Bloodhound Knight Gauntlets": {
+    "name": "Bloodhound Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Bloodsoaked Manchettes": {
+    "name": "Bloodsoaked Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodsoaked_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Briar Gauntlets": {
+    "name": "Briar Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/briar_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Bull-Goat Gauntlets": {
+    "name": "Bull-Goat Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bull-goat_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Carian Knight Gauntlets": {
+    "name": "Carian Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Gauntlets": {
+    "name": "Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/chain_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Champion Bracers": {
+    "name": "Champion Bracers",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/champion_bracers_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Cleanrot Gauntlets": {
+    "name": "Cleanrot Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Confessor Gloves": {
+    "name": "Confessor Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/confessor_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Crucible Gauntlets": {
+    "name": "Crucible Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Elden Lord Bracers": {
+    "name": "Elden Lord Bracers",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_lord_bracers_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Exile Gauntlets": {
+    "name": "Exile Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/exile_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Errant Sorcerer Manchettes": {
+    "name": "Errant Sorcerer Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/errant_sorcerer_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Fire Monk Gauntlets": {
+    "name": "Fire Monk Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_monk_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Foot Soldier Gauntlets": {
+    "name": "Foot Soldier Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/foot_soldier_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Gelmir Knight Gauntlets": {
+    "name": "Gelmir Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Godrick Knight Gauntlets": {
+    "name": "Godrick Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Godskin Apostle Bracelets": {
+    "name": "Godskin Apostle Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_apostle_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Haligtree Gauntlets": {
+    "name": "Haligtree Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Highwayman Gauntlets": {
+    "name": "Highwayman Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/highwayman_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Hoslow's Gauntlets": {
+    "name": "Hoslow's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Kaiden Gauntlets": {
+    "name": "Kaiden Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Knight Gauntlets": {
+    "name": "Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Land of Reeds Gauntlets": {
+    "name": "Land of Reeds Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/land_of_reeds_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Leyndell Knight Gauntlets": {
+    "name": "Leyndell Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Leyndell Soldier Gauntlets": {
+    "name": "Leyndell Soldier Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_soldier_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Lionel's Gauntlets": {
+    "name": "Lionel's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lionels_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Malformed Dragon Gauntlets": {
+    "name": "Malformed Dragon Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malformed_dragon_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Maliketh's Gauntlets": {
+    "name": "Maliketh's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malikeths_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Mushroom Arms": {
+    "name": "Mushroom Arms",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mushroom_arms_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Noble's Gloves": {
+    "name": "Noble's Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nobles_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Omenkiller Long Gloves": {
+    "name": "Omenkiller Long Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omenkiller_long_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Iron Gauntlets": {
+    "name": "Iron Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Perfumer Gloves": {
+    "name": "Perfumer Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumer_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Preceptor's Gloves": {
+    "name": "Preceptor's Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/preceptors_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Queen's Bracelets": {
+    "name": "Queen's Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/queens_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Radahn's Gauntlets": {
+    "name": "Radahn's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahns_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Raging Wolf Gauntlets": {
+    "name": "Raging Wolf Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raging_wolf_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Raya Lucarian Gauntlets": {
+    "name": "Raya Lucarian Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucarian_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Scaled Gauntlets": {
+    "name": "Scaled Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scaled_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Sorcerer Manchettes": {
+    "name": "Sorcerer Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sorcerer_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Traveling Maiden Gloves": {
+    "name": "Traveling Maiden Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/traveling_maiden_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Twinned Gauntlets": {
+    "name": "Twinned Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Warrior Gauntlets": {
+    "name": "Warrior Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/warrior_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Vagabond Knight Gauntlets": {
+    "name": "Vagabond Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vagabond_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Veteran's Gauntlets": {
+    "name": "Veteran's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Vulgar Militia Gauntlets": {
+    "name": "Vulgar Militia Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "White Reed Gauntlets": {
+    "name": "White Reed Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/white_reed_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Zamor Bracelets": {
+    "name": "Zamor Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/zamor_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Banished Knight Gauntlets": {
+    "name": "Banished Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Battlemage Manchettes": {
+    "name": "Battlemage Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/battlemage_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Blaidd's Gauntlets": {
+    "name": "Blaidd's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blaidds_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Blue Silver Bracelets": {
+    "name": "Blue Silver Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_silver_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Brave's Bracer": {
+    "name": "Brave's Bracer",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/braves_bracer_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Cuckoo Knight Gauntlets": {
+    "name": "Cuckoo Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Depraved Perfumer Gloves": {
+    "name": "Depraved Perfumer Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/depraved_perfumer_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Drake Knight Gauntlets": {
+    "name": "Drake Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/drake_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Eccentric's Manchettes": {
+    "name": "Eccentric's Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eccentrics_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Fingerprint Gauntlets": {
+    "name": "Fingerprint Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Fire Prelate Gauntlets": {
+    "name": "Fire Prelate Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_prelate_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Godrick Soldier Gauntlets": {
+    "name": "Godrick Soldier Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_soldier_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Godskin Noble Bracelets": {
+    "name": "Godskin Noble Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_noble_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Gold Bracelets": {
+    "name": "Gold Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gold_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Golden Prosthetic": {
+    "name": "Golden Prosthetic",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_prosthetic_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Guardian Bracers": {
+    "name": "Guardian Bracers",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guardian_bracers_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Haligtree Knight Gauntlets": {
+    "name": "Haligtree Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Leather Gloves": {
+    "name": "Leather Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leather_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Lusat's Manchettes": {
+    "name": "Lusat's Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lusats_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Malenia's Gauntlet": {
+    "name": "Malenia's Gauntlet",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malenias_gauntlet_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Mausoleum Gauntlets": {
+    "name": "Mausoleum Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mausoleum_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Mausoleum Knight Gauntlets": {
+    "name": "Mausoleum Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mausoleum_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Millicent's Gloves": {
+    "name": "Millicent's Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicents_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Night's Cavalry Gauntlets": {
+    "name": "Night's Cavalry Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Nox Bracelets": {
+    "name": "Nox Bracelets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_monk_bracelets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Omen Gauntlets": {
+    "name": "Omen Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omen_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Radahn Soldier Gauntlets": {
+    "name": "Radahn Soldier Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahn_soldier_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Ragged Gloves": {
+    "name": "Ragged Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ragged_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Redmane Knight Gauntlets": {
+    "name": "Redmane Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Ronin's Gauntlets": {
+    "name": "Ronin's Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ronins_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Royal Knight Gauntlets": {
+    "name": "Royal Knight Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_knight_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Royal Remains Gauntlets": {
+    "name": "Royal Remains Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_remains_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Spellblade's Gloves": {
+    "name": "Spellblade's Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spellblades_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Traveler's Gloves": {
+    "name": "Traveler's Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/travelers_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Traveler's Manchettes": {
+    "name": "Traveler's Manchettes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/travelers_manchettes_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "Tree Sentinel Gauntlets": {
+    "name": "Tree Sentinel Gauntlets",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree_sentinel_gauntlets_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  },
+  "War Surgeon Gloves": {
+    "name": "War Surgeon Gloves",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/war_surgeon_gloves_elden_ring_wiki_guide_200px.png",
+    "type": "103"
+  }
+}

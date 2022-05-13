@@ -1,0 +1,347 @@
+{
+  "Rickety Shield": {
+    "name": "Rickety Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rickety_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Riveted Wooden Shield": {
+    "name": "Riveted Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/riveted_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Blue-White Wooden Shield": {
+    "name": "Blue-White Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue-white_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Scripture Wooden Shield": {
+    "name": "Scripture Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scripture_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Red Thorn Roundshield": {
+    "name": "Red Thorn Roundshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/red_thorn_roundshield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Pillory Shield": {
+    "name": "Pillory Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pillory-small-shield_12004_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Buckler": {
+    "name": "Buckler",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/buckler_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Iron Roundshield": {
+    "name": "Iron Roundshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/iron_roundshield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Gilded Iron Shield": {
+    "name": "Gilded Iron Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gilded_iron_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Man-Serpent's Shield": {
+    "name": "Man-Serpent's Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/man-serpents-shield-small_12002_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Ice Crest Shield": {
+    "name": "Ice Crest Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ice_crest_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Rift Shield": {
+    "name": "Rift Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rift_shield_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Perfumer's Shield": {
+    "name": "Perfumer's Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumers-shield-small_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Shield of the Guilty": {
+    "name": "Shield of the Guilty",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shield_of_the_guilty_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Spiralhorn Shield": {
+    "name": "Spiralhorn Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spiralhorn-shield-small_12019_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Smoldering Shield": {
+    "name": "Smoldering Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/smoldering-small-shield_12015_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Coil Shield": {
+    "name": "Coil Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/coil_shield_icon_elden_ring_wiki_guide_200px.png",
+    "type": "200"
+  },
+  "Hawk Crest Wooden Shield": {
+    "name": "Hawk Crest Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hawk_crest_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Horse Crest Wooden Shield": {
+    "name": "Horse Crest Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/horse_crest_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Candletree Wooden Shield": {
+    "name": "Candletree Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/candletree_wooden_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Flame Crest Wooden Shield": {
+    "name": "Flame Crest Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/flame_crest_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Marred Wooden Shield": {
+    "name": "Marred Wooden Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marred_wooden_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Sun Realm Shield": {
+    "name": "Sun Realm Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sun_realm_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Round Shield": {
+    "name": "Round Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/round_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Large Leather Shield": {
+    "name": "Large Leather Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/large_leather_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Black Leather Shield": {
+    "name": "Black Leather Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_leather_shield_1_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Marred Leather Shield": {
+    "name": "Marred Leather Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marred_leather_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Heater Shield": {
+    "name": "Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/heater_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Blue Crest Heater Shield": {
+    "name": "Blue Crest Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_crest_heater_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Red Crest Heater Shield": {
+    "name": "Red Crest Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/red_crest_heater_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Beast Crest Heater Shield": {
+    "name": "Beast Crest Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast_crest_heater_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Inverted Hawk Heater Shield": {
+    "name": "Inverted Hawk Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/inverted_hawk_heater_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Eclipse Crest Heater Shield": {
+    "name": "Eclipse Crest Heater Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eclipse_crest_heater_shield_elden_ring_wiki_guide_75px.png",
+    "type": "201"
+  },
+  "Kite Shield": {
+    "name": "Kite Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/kite_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Blue-Gold Kite Shield": {
+    "name": "Blue-Gold Kite Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue-gold_kite_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Scorpion Kite Shield": {
+    "name": "Scorpion Kite Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scorpion_kite_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Twinbird Kite Shield": {
+    "name": "Twinbird Kite Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinbird_kite_shield_medium_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Brass Shield": {
+    "name": "Brass Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/brass_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Banished Knight's Shield": {
+    "name": "Banished Knight's Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knights_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Albinauric Shield": {
+    "name": "Albinauric Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/albinauric_shield_small_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Beastman's Jar-Shield": {
+    "name": "Beastman's Jar-Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beastmans-jar-shield_12006_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Carian Knight's Shield": {
+    "name": "Carian Knight's Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knights_shield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Silver Mirrorshield": {
+    "name": "Silver Mirrorshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/silver_mirrorshield_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Great Turtle Shell": {
+    "name": "Great Turtle Shell",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_turtle_shell_elden_ring_wiki_guide_200px.png",
+    "type": "201"
+  },
+  "Wooden Greatshield": {
+    "name": "Wooden Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/wooden_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Lordsworn's Shield": {
+    "name": "Lordsworn's Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lordsworns_shield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Briar Greatshield": {
+    "name": "Briar Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/briar_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Spiked Palisade Shield": {
+    "name": "Spiked Palisade Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spiked_palisade_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Icon Shield": {
+    "name": "Icon Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/icon_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Golden Beast Crest Shield": {
+    "name": "Golden Beast Crest Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_beast_crest_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Manor Towershield": {
+    "name": "Manor Towershield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/manor_towershield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Crossed-Tree Towershield": {
+    "name": "Crossed-Tree Towershield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crossed-tree_towershield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Inverted Hawk Towershield": {
+    "name": "Inverted Hawk Towershield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/invert_hawk_towershield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Dragon Towershield": {
+    "name": "Dragon Towershield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_towershield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Distinguished Greatshield": {
+    "name": "Distinguished Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/distinguished_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Gilded Greatshield": {
+    "name": "Gilded Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gilded_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Cuckoo Greatshield": {
+    "name": "Cuckoo Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Redmane Greatshield": {
+    "name": "Redmane Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Golden Greatshield": {
+    "name": "Golden Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Haligtree Crest Greatshield": {
+    "name": "Haligtree Crest Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_crest_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Crucible Hornshield": {
+    "name": "Crucible Hornshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_hornshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Dragonclaw Shield": {
+    "name": "Dragonclaw Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonclaw__shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Fingerprint Stone Shield": {
+    "name": "Fingerprint Stone Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_stone_shield_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Eclipse Crest Greatshield": {
+    "name": "Eclipse Crest Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eclipse_crest_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Ant's Skull Plate": {
+    "name": "Ant's Skull Plate",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ants_skull_plate_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Erdtree Greatshield": {
+    "name": "Erdtree Greatshield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree_greatshield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Jellyfish Shield": {
+    "name": "Jellyfish Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jellyfish_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "Visage Shield": {
+    "name": "Visage Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/visage_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  },
+  "One-Eyed Shield": {
+    "name": "One-Eyed Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/one-eyed_shield_elden_ring_wiki_guide_200px.png",
+    "type": "202"
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "Ash of War: No Skill": {
+    "name": "Ash of War: No Skill",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_no_skill_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields",
+      "Torches"
+    ]
+  },
+  "Ash of War: Lion's Claw": {
+    "name": "Ash of War: Lion's Claw",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lions_claw_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Impaling Thrust": {
+    "name": "Ash of War: Impaling Thrust",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_impaling_thrust_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Claws"
+    ]
+  },
+  "Ash of War: Piercing Fang": {
+    "name": "Ash of War: Piercing Fang",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_piercing_fang_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Spinning Slash": {
+    "name": "Ash of War: Spinning Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Axes",
+      "Greataxes",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Charge Forth": {
+    "name": "Ash of War: Charge Forth",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_charge_forth_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Stamp (Upward Cut)": {
+    "name": "Ash of War: Stamp (Upward Cut)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stamp_upward_cut_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Greatswords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Stamp (Sweep)": {
+    "name": "Ash of War: Stamp (Sweep)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stamp_sweep_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Greatswords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Blood Tax": {
+    "name": "Ash of War: Blood Tax",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blood_tax_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords, Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Repeating Thrust": {
+    "name": "Ash of War: Repeating Thrust",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_repeating_thrust_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Wild Strikes": {
+    "name": "Ash of War: Wild Strikes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_wild_strikes_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails"
+    ]
+  },
+  "Ash of War: Spinning Strikes": {
+    "name": "Ash of War: Spinning Strikes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_strikes_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Double Slash": {
+    "name": "Ash of War: Double Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_double_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Prelate's Charge": {
+    "name": "Ash of War: Prelate's Charge",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_prelates_charge_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Great Hammers",
+      "Greataxes",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Unsheathe": {
+    "name": "Ash of War: Unsheathe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_unsheathe_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Katanas"
+    ]
+  },
+  "Ash of War: Square Off": {
+    "name": "Ash of War: Square Off",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_square_off_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords"
+    ]
+  },
+  "Ash of War: Giant Hunt": {
+    "name": "Ash of War: Giant Hunt",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_  giant_hunt_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Colossal Swords",
+      "Twinblades",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Loretta's Slash": {
+    "name": "Ash of War: Loretta's Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lorettas_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Poison Moth Flight": {
+    "name": "Ash of War: Poison Moth Flight",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_poison_moth_flight_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Curved Swords",
+      "Katanas",
+      "Thrusting Swords"
+    ]
+  },
+  "Ash of War: Spinning Weapon": {
+    "name": "Ash of War: Spinning Weapon",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_weapon_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Curved Swords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Axes",
+      "Flails",
+      "Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Storm Assault": {
+    "name": "Ash of War: Storm Assault",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_assault_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Stormcaller": {
+    "name": "Ash of War: Stormcaller",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stormcaller_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Sword Dance": {
+    "name": "Ash of War: Sword Dance",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sword_dance_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Axes",
+      "Greataxes",
+      "Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Glintblade Phalanx": {
+    "name": "Ash of War: Glintblade Phalanx",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_glintblade_phalanx_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Sacred Blade": {
+    "name": "Ash of War: Sacred Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_blade_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Ice Spear": {
+    "name": "Ash of War: Ice Spear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_ice_spear_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Glintstone Pebble": {
+    "name": "Ash of War: Glintstone Pebble",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_glintstone_pebble_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Bloody Slash": {
+    "name": "Ash of War: Bloody Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_bloody_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords"
+    ]
+  },
+  "Ash of War: Lifesteal Fist": {
+    "name": "Ash of War: Lifesteal Fist",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lifesteal_fist_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Fists",
+      "Claws"
+    ]
+  },
+  "Ash of War: Eruption": {
+    "name": "Ash of War: Eruption",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_eruption_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Greatswords",
+      "Heavy Thrusting Swords",
+      "Great Hammers",
+      "Greataxes",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Prayerful Strike": {
+    "name": "Ash of War: Prayerful Strike",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_prayerful_strike_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Gravitas": {
+    "name": "Ash of War: Gravitas",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_gravitas_elden_ring_wiki_guide_200.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Storm Blade": {
+    "name": "Ash of War: Storm Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_blade_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords"
+    ]
+  },
+  "Ash of War: Earthshaker": {
+    "name": "Ash of War: Earthshaker",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_earthshaker_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Colossal Swords",
+      "Great Hammers",
+      "Greataxes",
+      "Great Spears",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Golden Land": {
+    "name": "Ash of War: Golden Land",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_land_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Colossal Swords",
+      "Great Hammers",
+      "Greataxes",
+      "Great Spears",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Flaming Strike": {
+    "name": "Ash of War: Flaming Strike",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flaming_strike_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws"
+    ]
+  },
+  "Ash of War: Thunderbolt": {
+    "name": "Ash of War: Thunderbolt",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_thunderbolt_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Lightning Slash": {
+    "name": "Ash of War: Lightning Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lightning_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Carian Grandeur": {
+    "name": "Ash of War: Carian Grandeur",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_grandeur_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords"
+    ]
+  },
+  "Ash of War: Carian Greatsword": {
+    "name": "Ash of War: Carian Greatsword",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_greatsword_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords"
+    ]
+  },
+  "Ash of War: Vacuum Slice": {
+    "name": "Ash of War: Vacuum Slice",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_vacuum_slice_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Axes",
+      "Greataxes"
+    ]
+  },
+  "Ash of War: Black Flame Tornado": {
+    "name": "Ash of War: Black Flame Tornado",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_black_flame_tornado_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Sacred Ring of Light": {
+    "name": "Ash of War: Sacred Ring of Light",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_ring_of_light_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Blood Blade": {
+    "name": "Ash of War: Blood Blade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blood_blade_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Curved Swords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords"
+    ]
+  },
+  "Ash of War: Phantom Slash": {
+    "name": "Ash of War: Phantom Slash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_phantom_slash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Twinblades",
+      "Spears",
+      "Halberds",
+      "Reapers"
+    ]
+  },
+  "Ash of War: Spectral Lance": {
+    "name": "Ash of War: Spectral Lance",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spectral_lance_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Chilling Mist": {
+    "name": "Ash of War: Chilling Mist",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_chilling_mist_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Poisonous Mist": {
+    "name": "Ash of War: Poisonous Mist",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_poisonous_mist_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Shield Bash": {
+    "name": "Ash of War: Shield Bash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shield_bash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields"
+    ]
+  },
+  "Ash of War: Barricade Shield": {
+    "name": "Ash of War: Barricade Shield",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barricade_shield_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields"
+    ]
+  },
+  "Ash of War: Parry": {
+    "name": "Ash of War: Parry",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_parry_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Curved Swords",
+      "Thrusting Swords",
+      "Fists",
+      "Claws",
+      "Small Shields",
+      "Medium Shields"
+    ]
+  },
+  "Ash of War: Carian Retaliation": {
+    "name": "Ash of War: Carian Retaliation",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_retaliation_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields"
+    ]
+  },
+  "Ash of War: Storm Wall": {
+    "name": "Ash of War: Storm Wall",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_wall_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields"
+    ]
+  },
+  "Ash of War: Golden Parry": {
+    "name": "Ash of War: Golden Parry",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_parry_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields"
+    ]
+  },
+  "Ash of War: Shield Crash": {
+    "name": "Ash of War: Shield Crash",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shield_crash_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields"
+    ]
+  },
+  "Ash of War: Thops's Barrier": {
+    "name": "Ash of War: Thops's Barrier",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/thops-barrier-ash-of-war-elden-ring-wiki-guide-200.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields"
+    ]
+  },
+  "Ash of War: Through and Through": {
+    "name": "Ash of War: Through and Through",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_through_and_through_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatbows"
+    ]
+  },
+  "Ash of War: Barrage": {
+    "name": "Ash of War: Barrage",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barrage_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Light Bows"
+    ]
+  },
+  "Ash of War: Mighty Shot": {
+    "name": "Ash of War: Mighty Shot",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_mighty_shot_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Light Bows",
+      "Bows"
+    ]
+  },
+  "Ash of War: Enchanted Shot": {
+    "name": "Ash of War: Enchanted Shot",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_enchanted_shot_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Lightbows",
+      "Bows"
+    ]
+  },
+  "Ash of War: Sky Shot": {
+    "name": "Ash of War: Sky Shot",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sky_shot_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Light Bows",
+      "Bows"
+    ]
+  },
+  "Ash of War: Rain of Arrows": {
+    "name": "Ash of War: Rain of Arrows",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_rain_of_arrows_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Light Bows",
+      "Bows",
+      "Greatbows"
+    ]
+  },
+  "Ash of War: Hoarfrost Stomp": {
+    "name": "Ash of War: Hoarfrost Stomp",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_hoarfrost_stomp_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Storm Stomp": {
+    "name": "Ash of War: Storm Stomp",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_stomp_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Kick": {
+    "name": "Ash of War: Kick",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_kick_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Lightning Ram": {
+    "name": "Ash of War: Lightning Ram",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lightning_ram_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Flame of the Redmanes": {
+    "name": "Ash of War: Flame of the Redmanes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flame_of_the_redmanes_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Ground Slam": {
+    "name": "Ash of War: Ground Slam",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_ground_slam_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Golden Slam": {
+    "name": "Ash of War: Golden Slam",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_slam_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Waves of Darkness": {
+    "name": "Ash of War: Waves of Darkness",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_waves_of_darkness_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Colossal Swords",
+      "Great Hammers",
+      "Greataxes",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Hoarah Loux's Earthshaker": {
+    "name": "Ash of War: Hoarah Loux's Earthshaker",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_hoarah_louxs_earthshaker_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Determination": {
+    "name": "Ash of War: Determination",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_determination_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Royal Knight's Resolve": {
+    "name": "Ash of War: Royal Knight's Resolve",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_royal_knights_resolve_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Assassin's Gambit": {
+    "name": "Ash of War: Assassin's Gambit",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_assassins_gambit_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords"
+    ]
+  },
+  "Ash of War: Golden Vow": {
+    "name": "Ash of War: Golden Vow",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_vow_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Sacred Order": {
+    "name": "Ash of War: Sacred Order",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_order_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Shared Order": {
+    "name": "Ash of War: Shared Order",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shared_order_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Seppuku": {
+    "name": "Ash of War: Seppuku",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_seppuku_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Colossal Swords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Spears",
+      "Great Spears",
+      "Halberds"
+    ]
+  },
+  "Ash of War: Cragblade": {
+    "name": "Ash of War: Cragblade",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_cragblade_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Barbaric Roar": {
+    "name": "Ash of War: Barbaric Roar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barbaric_roar_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: War Cry": {
+    "name": "Ash of War: War Cry",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_war_cry_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Beast's Roar": {
+    "name": "Ash of War: Beast's Roar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_beasts_roar_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Troll's Roar": {
+    "name": "Ash of War: Troll's Roar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_troll's_roar_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Greatswords",
+      "Heavy Thrusting Swords",
+      "Great Hammers",
+      "Greataxes",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Braggart's Roar": {
+    "name": "Ash of War: Braggart's Roar",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_braggart's_roar_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Endure": {
+    "name": "Ash of War: Endure",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_endure_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Vow of the Indomitable": {
+    "name": "Ash of War: Vow of the Indomitable",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_vow_of_the_indomitable_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields"
+    ]
+  },
+  "Ash of War: Holy Ground": {
+    "name": "Ash of War: Holy Ground",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_holy_ground_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Small Shields",
+      "Medium Shields",
+      "Greatshields"
+    ]
+  },
+  "Ash of War: Quickstep": {
+    "name": "Ash of War: Quickstep",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_quickstep_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Bloodhound's Step": {
+    "name": "Ash of War: Bloodhound's Step",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_bloodhounds_step_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: Raptor of the Mists": {
+    "name": "Ash of War: Raptor of the Mists",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_raptor_of_the_mists_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  },
+  "Ash of War: White Shadow's Lure": {
+    "name": "Ash of War: White Shadow's Lure",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_white_shadows_lure_elden_ring_wiki_guide_200px.png",
+    "type": "600",
+    "availability": [
+      "Daggers",
+      "Straight Swords",
+      "Greatswords",
+      "Colossal Swords",
+      "Curved Swords",
+      "Curved Greatswords",
+      "Katanas",
+      "Twinblades",
+      "Thrusting Swords",
+      "Heavy Thrusting Swords",
+      "Hammers",
+      "Great Hammers",
+      "Axes",
+      "Greataxes",
+      "Flails",
+      "Spears",
+      "Great Spears",
+      "Halberds",
+      "Reapers",
+      "Fists",
+      "Claws",
+      "Whips",
+      "Colossal Weapons"
+    ]
+  }
+}

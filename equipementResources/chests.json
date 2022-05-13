@@ -1,0 +1,1037 @@
+{
+  "All-Knowing Armor": {
+    "name": "All-Knowing Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/all-knowing_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Alberich's Robe": {
+    "name": "Alberich's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alberichs_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Aristocrat Coat": {
+    "name": "Aristocrat Coat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aristocrat_coat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Aristocrat Garb": {
+    "name": "Aristocrat Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aristocrat_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Astrologer Robe": {
+    "name": "Astrologer Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/astrologer_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Azur's Glintstone Robe": {
+    "name": "Azur's Glintstone Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/azurs_glintstone_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Bandit Garb": {
+    "name": "Bandit Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bandit_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Banished Knight Armor": {
+    "name": "Banished Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Beast Champion Armor": {
+    "name": "Beast Champion Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast_champion_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Black Knife Armor": {
+    "name": "Black Knife Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blackflame Monk Armor": {
+    "name": "Blackflame Monk Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blackflame_monk_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Bloodhound Knight Armor": {
+    "name": "Bloodhound Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blue Cloth Vest": {
+    "name": "Blue Cloth Vest",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_cloth_vest_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blue Silver Mail Armor": {
+    "name": "Blue Silver Mail Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_silver_mail_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Briar Armor": {
+    "name": "Briar Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/briar_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Bull-Goat Armor": {
+    "name": "Bull-Goat Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bull-goat_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Carian Knight Armor": {
+    "name": "Carian Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Chain Armor": {
+    "name": "Chain Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/chain_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Chain-Draped Tabard": {
+    "name": "Chain-Draped Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/chain-draped_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Champion Pauldron": {
+    "name": "Champion Pauldron",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/champion_pauldron_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Cleanrot Armor": {
+    "name": "Cleanrot Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Cloth Garb": {
+    "name": "Cloth Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cloth_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Commoner's Garb": {
+    "name": "Commoner's Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Commoner's Simple Garb": {
+    "name": "Commoner's Simple Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_simple_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Confessor Armor": {
+    "name": "Confessor Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/confessor_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Crucible Axe Armor": {
+    "name": "Crucible Axe Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_axe_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Crucible Tree Armor": {
+    "name": "Crucible Tree Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible-tree-armor-elden-ring-wiki-guide.png",
+    "type": "101"
+  },
+  "Cuckoo Surcoat": {
+    "name": "Cuckoo Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Deathbed Dress": {
+    "name": "Deathbed Dress",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/deathbed_dress_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Depraved Perfumer Robe": {
+    "name": "Depraved Perfumer Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/depraved_perfumer_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Eccentric's Armor": {
+    "name": "Eccentric's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eccentrics_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Elden Lord Armor": {
+    "name": "Elden Lord Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_lord_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Erdtree Surcoat": {
+    "name": "Erdtree Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/erdtree_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Errant Sorcerer Robe": {
+    "name": "Errant Sorcerer Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/errant_sorcerer_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Exile Armor": {
+    "name": "Exile Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/exile_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Eye Surcoat": {
+    "name": "Eye Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/eye_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fia's Robe": {
+    "name": "Fia's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fias_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fia's Robe (Altered)": {
+    "name": "Fia's Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fias_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fell Omen Cloak": {
+    "name": "Fell Omen Cloak",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fell_omen_cloak_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Finger Maiden Robe": {
+    "name": "Finger Maiden Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/finger_maiden_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fire Monk Armor": {
+    "name": "Fire Monk Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_monk_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fur Raiment": {
+    "name": "Fur Raiment",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fur_raiment_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Gelmir Knight Armor": {
+    "name": "Gelmir Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Godrick Knight Armor": {
+    "name": "Godrick Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Godskin Apostle Robe": {
+    "name": "Godskin Apostle Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_apostle_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Tree-and-Beast Surcoat": {
+    "name": "Tree-and-Beast Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree-and-beast_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Haligtree Crest Surcoat": {
+    "name": "Haligtree Crest Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_crest_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Highwayman Cloth Armor": {
+    "name": "Highwayman Cloth Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/highwayman_cloth_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Hoslow's Armor": {
+    "name": "Hoslow's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Juvenile Scholar Robe": {
+    "name": "Juvenile Scholar Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/juvenile_scholar_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Knight Armor": {
+    "name": "Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Kaiden Armor": {
+    "name": "Kaiden Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Land of Reeds Armor": {
+    "name": "Land of Reeds Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/land_of_reeds_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Leather-Draped Tabard": {
+    "name": "Leather-Draped Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leather-draped_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Lionel's Armor": {
+    "name": "Lionel's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lionels_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Lord of Blood's Robe": {
+    "name": "Lord of Blood's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lord_of_bloods_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Malformed Dragon Armor": {
+    "name": "Malformed Dragon Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malformed_dragon_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Maliketh's Armor": {
+    "name": "Maliketh's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malikeths_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Marais Robe": {
+    "name": "Marais Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marais_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Millicent's Robe": {
+    "name": "Millicent's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicents_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Millicent's Tunic": {
+    "name": "Millicent's Tunic",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/millicents_tunic_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Mushroom Body": {
+    "name": "Mushroom Body",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mushroom_body_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Noble's Traveling Garb": {
+    "name": "Noble's Traveling Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nobles_traveling_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Old Aristocrat Gown": {
+    "name": "Old Aristocrat Gown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/old_aristocrat_gown_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Omenkiller Robe": {
+    "name": "Omenkiller Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omenkiller_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Perfumer's Traveling Garb": {
+    "name": "Perfumer's Traveling Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumers_traveling_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Preceptor's Long Gown": {
+    "name": "Preceptor's Long Gown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/preceptors_long_gown_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Prisoner Clothing": {
+    "name": "Prisoner Clothing",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prisoner_clothing_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Prophet Robe": {
+    "name": "Prophet Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prophet_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Queen's Robe": {
+    "name": "Queen's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/queens_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Radahn's Lion Armor": {
+    "name": "Radahn's Lion Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahns_lion_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Raging Wolf Armor": {
+    "name": "Raging Wolf Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raging_wolf_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Raya Lucarian Robe": {
+    "name": "Raya Lucarian Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucarian_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Rotten Gravekeeper Cloak": {
+    "name": "Rotten Gravekeeper Cloak",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_gravekeeper_cloak_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ruler's Robe": {
+    "name": "Ruler's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rulers_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Sage Robe": {
+    "name": "Sage Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sage_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Sanguine Noble Robe": {
+    "name": "Sanguine Noble Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sanguine_noble_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Scale Armor": {
+    "name": "Scale Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scale_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Scaled Armor": {
+    "name": "Scaled Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scaled_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Snow Witch Robe": {
+    "name": "Snow Witch Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/snow_witch_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Traveling Maiden Robe": {
+    "name": "Traveling Maiden Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/traveling_maiden_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Twinned Armor": {
+    "name": "Twinned Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Upper-Class Robe": {
+    "name": "Upper-Class Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/upper-class_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Vagabond Knight Armor": {
+    "name": "Vagabond Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vagabond_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Veteran's Armor": {
+    "name": "Veteran's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "White Reed Armor": {
+    "name": "White Reed Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/white_reed_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Zamor Armor": {
+    "name": "Zamor Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/zamor_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Marionette Soldier Armor": {
+    "name": "Marionette Soldier Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/marionette_soldier_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Alberich's Robe (Altered)": {
+    "name": "Alberich's Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/alberichs_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "All-Knowing Armor (Altered)": {
+    "name": "All-Knowing Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/all-knowing_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Aristocrat Garb (Altered)": {
+    "name": "Aristocrat Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aristocrat_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Astrologer Robe (Altered)": {
+    "name": "Astrologer Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/astrologer_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Banished Knight Armor (Altered)": {
+    "name": "Banished Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/banished_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Battlemage Robe": {
+    "name": "Battlemage Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/battlemage_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Beast Champion Armor (Altered)": {
+    "name": "Beast Champion Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beast_champion_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Black Knife Armor (Altered)": {
+    "name": "Black Knife Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blaidd's Armor": {
+    "name": "Blaidd's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blaidds_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blaidd's Armor (Altered)": {
+    "name": "Blaidd's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blaidds_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Bloodhound Knight Armor (Altered)": {
+    "name": "Bloodhound Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodhound_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Bloodsoaked Tabard": {
+    "name": "Bloodsoaked Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodsoaked_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blue Festive Garb": {
+    "name": "Blue Festive Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_festive_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Blue Silver Mail Armor (Altered)": {
+    "name": "Blue Silver Mail Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue_silver_mail_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Brave's Battlewear": {
+    "name": "Brave's Battlewear",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/braves_battlewear_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Brave's Battlewear (Altered)": {
+    "name": "Brave's Battlewear (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/braves_battlewear_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Briar Armor (Altered)": {
+    "name": "Briar Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/briar_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Carian Knight Armor (Altered)": {
+    "name": "Carian Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Cleanrot Armor (Altered)": {
+    "name": "Cleanrot Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cleanrot_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Commoner's Garb (Altered)": {
+    "name": "Commoner's Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Commoner's Simple Garb (Altered)": {
+    "name": "Commoner's Simple Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/commoners_simple_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Confessor Armor (Altered)": {
+    "name": "Confessor Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/confessor_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Consort's Robe": {
+    "name": "Consort's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/consorts_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Corhyn's Robe": {
+    "name": "Corhyn's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/corhyns_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Crucible Axe Armor (Altered)": {
+    "name": "Crucible Axe Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_axe_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Crucible Tree Armor (Altered)": {
+    "name": "Crucible Tree Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crucible_tree_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Cuckoo Knight Armor": {
+    "name": "Cuckoo Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Cuckoo Knight Armor (Altered)": {
+    "name": "Cuckoo Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Depraved Perfumer Robe (Altered)": {
+    "name": "Depraved Perfumer Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/depraved_perfumer_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Dirty Chainmail": {
+    "name": "Dirty Chainmail",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dirty_chainmail_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Drake Knight Armor": {
+    "name": "Drake Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/drake_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Drake Knight Armor (Altered)": {
+    "name": "Drake Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/drake_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Elden Lord Armor (Altered)": {
+    "name": "Elden Lord Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_lord_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Errant Sorcerer Robe (Altered)": {
+    "name": "Errant Sorcerer Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/errant_sorcerer_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Festive Garb": {
+    "name": "Festive Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Festive Garb (Altered)": {
+    "name": "Festive Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Finger Maiden Robe (Altered)": {
+    "name": "Finger Maiden Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/finger_maiden_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fingerprint Armor": {
+    "name": "Fingerprint Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fingerprint Armor (Altered)": {
+    "name": "Fingerprint Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fire Prelate Armor": {
+    "name": "Fire Prelate Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_prelate_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Fire Prelate Armor (Altered)": {
+    "name": "Fire Prelate Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_prelate_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Foot Soldier Tabard": {
+    "name": "Foot Soldier Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/foot_soldier_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Gelmir Knight Armor (Altered)": {
+    "name": "Gelmir Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gelmir_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Godrick Knight Armor (Altered)": {
+    "name": "Godrick Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godrick_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Godskin Noble Robe": {
+    "name": "Godskin Noble Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/godskin_noble_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Goldmask's Rags": {
+    "name": "Goldmask's Rags",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/goldmasks_rags_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Gravekeeper Cloak": {
+    "name": "Gravekeeper Cloak",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravekeeper_cloak_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Gravekeeper Cloak (Altered)": {
+    "name": "Gravekeeper Cloak (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravekeeper_cloak_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Guardian Garb": {
+    "name": "Guardian Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guardian_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Guardian Garb (Full Bloom)": {
+    "name": "Guardian Garb (Full Bloom)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/guardian_garb_(full_bloom)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Haligtree Knight Armor": {
+    "name": "Haligtree Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Haligtree Knight Armor (Altered)": {
+    "name": "Haligtree Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/haligtree_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "High Page Clothes": {
+    "name": "High Page Clothes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/high_page_clothes_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "High Page Clothes (Altered)": {
+    "name": "High Page Clothes (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/high_page_clothes_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Hoslow's Armor (Altered)": {
+    "name": "Hoslow's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ivory-Draped Tabard": {
+    "name": "Ivory-Draped Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ivory-draped_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Land of Reeds Armor (Altered)": {
+    "name": "Land of Reeds Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/land_of_reeds_armor_(altered)_elden_ring_wiki_guide_75px.png",
+    "type": "101"
+  },
+  "Lazuli Robe": {
+    "name": "Lazuli Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lazuli_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Leather Armor": {
+    "name": "Leather Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leather_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Leyndell Knight Armor": {
+    "name": "Leyndell Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Leyndell Knight Armor (Altered)": {
+    "name": "Leyndell Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leyndell_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Lionel's Armor (Altered)": {
+    "name": "Lionel's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lionels_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Lord of Blood's Robe (Altered)": {
+    "name": "Lord of Blood's Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lord_of_bloods_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Lusat's Robe": {
+    "name": "Lusat's Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lusats_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Malenia's Armor": {
+    "name": "Malenia's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malenias_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Malenia's Armor (Altered)": {
+    "name": "Malenia's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malenias_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Maliketh's Armor (Altered)": {
+    "name": "Maliketh's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/malikeths_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Mausoleum Knight Armor": {
+    "name": "Mausoleum Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mausoleum_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Mausoleum Knight Armor (Altered)": {
+    "name": "Mausoleum Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mausoleum_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Mausoleum Surcoat": {
+    "name": "Mausoleum Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mausoleum_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Night Maiden Armor": {
+    "name": "Night Maiden Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/night_maiden_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Night's Cavalry Armor": {
+    "name": "Night's Cavalry Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Night's Cavalry Armor (Altered)": {
+    "name": "Night's Cavalry Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nights_cavalry_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nomadic Merchant's Finery": {
+    "name": "Nomadic Merchant's Finery",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nomadic_merchants_finery_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nomadic Merchant's Finery (Altered)": {
+    "name": "Nomadic Merchant's Finery (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nomadic_merchants_finery_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nox Monk Armor": {
+    "name": "Nox Monk Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_monk_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nox Monk Armor (Altered)": {
+    "name": "Nox Monk Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_monk_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nox Swordstress Armor": {
+    "name": "Nox Swordstress Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_swordstress_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Nox Swordstress Armor (Altered)": {
+    "name": "Nox Swordstress Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/nox_swordstress_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Official's Attire": {
+    "name": "Official's Attire",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/officials_attire_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Omen Armor": {
+    "name": "Omen Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/omen_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Page Garb": {
+    "name": "Page Garb",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/page_garb_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Page Garb (Altered)": {
+    "name": "Page Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/page_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Perfumer Robe": {
+    "name": "Perfumer Robe",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumer_robe_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Perfumer Robe (Altered)": {
+    "name": "Perfumer Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumer_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Perfumer's Traveling Garb (Altered)": {
+    "name": "Perfumer's Traveling Garb (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/perfumers_traveling_garb_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Preceptor's Long Gown (Altered)": {
+    "name": "Preceptor's Long Gown (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/preceptors_long_gown_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Prophet Robe (Altered)": {
+    "name": "Prophet Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/prophet_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Radahn's Lion Armor (Altered)": {
+    "name": "Radahn's Lion Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/radahns_lion_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ragged Armor": {
+    "name": "Ragged Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ragged_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ragged Armor (Altered)": {
+    "name": "Ragged Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ragged_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Raging Wolf Armor (Altered)": {
+    "name": "Raging Wolf Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raging_wolf_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Raptor's Black Feathers": {
+    "name": "Raptor's Black Feathers",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raptors_black_feathers_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Redmane Knight Armor": {
+    "name": "Redmane Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Redmane Knight Armor (Altered)": {
+    "name": "Redmane Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Redmane Surcoat": {
+    "name": "Redmane Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ronin's Armor": {
+    "name": "Ronin's Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ronins_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Ronin's Armor (Altered)": {
+    "name": "Ronin's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ronins_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Rotten Gravekeeper Cloak (Altered)": {
+    "name": "Rotten Gravekeeper Cloak (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rotten_gravekeeper_cloak_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Royal Knight Armor": {
+    "name": "Royal Knight Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_knight_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Royal Knight Armor (Altered)": {
+    "name": "Royal Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Royal Remains Armor": {
+    "name": "Royal Remains Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_remains_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Scaled Armor (Altered)": {
+    "name": "Scaled Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scaled_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Scarlet Tabard": {
+    "name": "Scarlet Tabard",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/scarlet_tabard_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Shaman Furs": {
+    "name": "Shaman Furs",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shaman_furs_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Snow Witch Robe (Altered)": {
+    "name": "Snow Witch Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/snow_witch_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Spellblade's Traveling Attire": {
+    "name": "Spellblade's Traveling Attire",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spellblades_traveling_attire_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Spellblade's Traveling Attire (Altered)": {
+    "name": "Spellblade's Traveling Attire (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spellblades_traveling_attire_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Traveler's Clothes": {
+    "name": "Traveler's Clothes",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/travelers_clothes_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Traveling Maiden Robe (Altered)": {
+    "name": "Traveling Maiden Robe (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/traveling_maiden_robe_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Tree Sentinel Armor": {
+    "name": "Tree Sentinel Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree_sentinel_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Tree Sentinel Armor (Altered)": {
+    "name": "Tree Sentinel Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree_sentinel_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Tree Surcoat": {
+    "name": "Tree Surcoat",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/tree_surcoat_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Twinned Armor (Altered)": {
+    "name": "Twinned Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/twinned_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Vagabond Knight Armor (Altered)": {
+    "name": "Vagabond Knight Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vagabond_knight_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Veteran's Armor (Altered)": {
+    "name": "Veteran's Armor (Altered)",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_armor_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "Vulgar Militia Armor": {
+    "name": "Vulgar Militia Armor",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_armor_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "War Surgeon Gown": {
+    "name": "War Surgeon Gown",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/war_surgeon_gown_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  },
+  "War Surgeon Gown (Altered)  ": {
+    "name": "War Surgeon Gown (Altered)  ",
+    "imgSrc": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/war_surgeon_gown_(altered)_elden_ring_wiki_guide_200px.png",
+    "type": "101"
+  }
+}
